@@ -1,0 +1,44 @@
+.down {
+    margin-top:20px;
+}
+
+.webcolorgray {
+	background-color:#4F4F4F;
+}
+
+.webcolordarkgray {
+	background-color:#363636;
+}
+
+.webcolorlightgray {
+	background-color:#D3D3D3;
+}
+
+.borderdown {
+	border-bottom: 1px solid #363636;
+	border-radius: 0px;
+}
+
+.nav > li > a:hover{
+	color: #363636;
+}
+
+.nav > li a{
+	color: #1F1F1F;
+	font-size: 120%;
+}
+
+.header {
+	background: url(/img/header.png);
+	background-size: cover;
+	border-radius: 0 0 5px 5px;
+}
+
+.footer {
+	border-radius: 5px 5px 5px 5px;
+}
+
+.pad_in {
+	padding-left: 2%;
+	padding-right: 2%;
+}
